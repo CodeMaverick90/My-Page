@@ -1,0 +1,19 @@
+body {
+background-color: darkcyan;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 4px;
+  width: 85%;
+}
+h1 {
+  color: indigo;
+  text-decoration: underline;
+}
+h3 {
+  color: indigo;
+  text-decoration: underline;
+}
